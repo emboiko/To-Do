@@ -1,7 +1,7 @@
 # Task-list w/ localStorage
 
 <div align="center">
-	<img src="https://i.imgur.com/vcqFX9Z.png">
+	<img src="https://tinyurl.com/y5haolbx">
 </div>
 
 #### Dependencies:
